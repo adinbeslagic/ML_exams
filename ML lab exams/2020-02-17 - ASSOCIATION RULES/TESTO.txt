@@ -1,0 +1,7 @@
+1. Read a transactions database in sparse format from a txt file into a list of lists. The file contains one transaction per line, each line has a variable number of items, separated by a separator. The external list will have a list for each transaction, each transaction is a list of items. Show the first two transactions (3 points)
+2. Encode the list of lists into a binary representation and transform it into a dataframe whose columns are the items show the head of that dataframe
+3. Find a value of min_support such that the apriori algorithm generates at least 8 frequent itemsets with at least 2 items. Output the result with the message below (5 points)
+4. Find the minimum metric threshold such that at least 10 association rules are extracted from the frequent itemsets found (5 points)
+5. Print the first 10 rules found, sorted by descending confidence and support (3 points)
+6. Plot confidence and support for all the sorted rules found (3 points)
+7. Scatter plot the rules by confidence and support, labelling the points with the index value of the corresponding rule (3 points)
