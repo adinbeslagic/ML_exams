@@ -1,0 +1,504 @@
+Skip to main content
+EOL
+Dashboard
+Appelli di CLAUDIO SARTORI
+Data Mining M - Machine Learning - Machine Learning and Data Mining
+
+Data Mining M - Machine Learning - Machine Learning and Data Mining
+Question 2
+Not yet answered
+Marked out of 0.50
+Remove flag
+Question text
+Which of the following situations could suggest the use of MinMax scaling? (also known as "rescaling") 
+
+Question 2Select one or more:
+
+a.
+There are numeric attributes with very diverse value ranges
+
+
+b.
+There are attributes with very skewed data distributions
+
+
+c.
+There are attributes with a large number of missing values
+
+
+d.
+There is a numeric attribute with values spread in a very large range
+
+Question 3
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+Which of the following is not an objective of feature selection
+
+Question 3Select one:
+
+a.
+Select the features with higher range, which have more influence on the computations
+
+
+b.
+Avoid the curse of dimensionality
+
+
+c.
+Reduce time and memory complexity of the mining algorithms
+
+
+d.
+Reduce the effect of noise
+
+
+Question 4
+Not yet answered
+Marked out of 0.50
+Remove flag
+Question text
+What is the single linkage?
+
+Question 4Select one:
+
+a.
+A method to compute the distance between two sets of items, it can be used in hierarchical clustering
+
+
+b.
+A method to compute the distance between two objects, it can be used in hierarchical clustering
+
+
+c.
+A method to compute the distance between two classes, it can be used in decision trees
+
+
+d.
+A method to compute the separation of the objects inside a cluster
+
+
+Question 5
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+The information gain is used to
+
+Question 5Select one:
+
+a.
+select the attribute which maximises, for a given training set, the ability to predict the class value
+
+b.
+select the attribute which maximises, for a given test set, the ability to predict the class value
+
+
+c.
+select the attribute which maximises, for a given training set, the ability to predict all the other attribute values
+
+
+d.
+select the class with maximum probability
+
+
+Question 6
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+What is the cross validation
+
+Question 6Select one:
+
+a.
+A technique to obtain a good estimation of the performance of a classifier when it will be used with data different from the training set
+
+
+b.
+A technique to obtain a good estimation of the performance of a classifier with the training set
+
+
+c.
+A technique to improve the quality of a classifier
+
+
+d.
+A technique to improve the speed of a classifier
+
+
+Question 7
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+In a decision tree, the number of objects in a node...
+
+Question 7Select one:
+
+a.
+...is smaller than the number of objects in its ancestor
+
+
+b.
+...is smaller than or equal to the number of objects in its ancestor
+
+
+c.
+...is bigger than the number of objects in its ancestor
+
+
+d.
+...is not related to the number of objects in its ancestor
+
+
+Question 8
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+What are the hyperparameters of a Neural Network? (Possibly non exhaustive)
+
+Question 8Answer
+
+a.
+Hidden layers structure, Learning rate, Activation function, Number of epochs
+
+
+b.
+Input layers structure, Learning rate, Activation function, Number of epochs
+
+
+c.
+Hidden layers structure, Output layer structure, Activation function, Number of epochs
+
+
+d.
+Network structure, Learning rate, Backpropagation algorithm, Number of epochs
+
+
+Question 9
+Not yet answered
+Marked out of 0.50
+Remove flag
+Question text
+What measure is maximised by the Expectation Masimisation algirithm for clustering?
+
+Question 9Select one:
+
+a.
+The likelihood the distributions, defined by the parameters found, given the data available
+
+
+b.
+The likelihood of an example
+
+
+c.
+The support of a class
+
+
+d.
+The likelihood of an attribute, given the class label
+
+
+Question 10
+Not yet answered
+Marked out of 0.50
+Remove flag
+Question text
+Which of the statements below is true? (One or more)
+
+Question 10Select one or more:
+
+a.
+Sometimes k-means stops to a configuration which does not give the minimum distortion for the chosen value of the number of clusters.
+
+b.
+K-means always stops to a configuration which gives the minimum distortion for the chosen value of the number of clusters.
+
+
+c.
+K-means is quite efficient even for large datasets
+
+
+d.
+K-means is very sensitive to the initial assignment of the centers
+
+Question 11
+Not yet answered
+Marked out of 0.50
+Remove flag
+Question text
+What is the key principle of merging clusters in agglomerative clustering?
+Question 11Select one:
+
+a.
+Repeat the process of merging clusters until only a single cluster remains.
+
+b.
+Compute the pairwise similarity or distance between all clusters.
+
+c.
+Merge the closest clusters according to the defined distance metric.
+
+d.
+Recalculate the similarity between the newly formed cluster and all remaining clusters.
+
+Question 12
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+Which of the statements below best describes the strategy of Apriori in finding the frequent itemsets?
+
+Question 12Select one:
+
+a.
+Evaluation of the support of the itemsets in an order such that uninteresting parts of the search space are pruned as soon as possible
+
+
+b.
+Evaluation of the confidence of the itemsets in an order such that uninteresting parts of the search space are pruned as soon as possible
+
+
+c.
+Evaluation of the support of the itemsets in an order such that uninteresting parts of the search space are considered only at the end of the execution
+
+
+d.
+Evaluation of the support of the itemsets in an order such that the interesting parts of the search space are pruned as soon as possible
+
+
+Question 13
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+How does pruning work when generating frequent itemsets?
+
+Question 13Select one:
+
+a.
+If an itemset is not frequent, then none of its supersets can be frequent, therefore the frequencies of the supersets are not evaluated
+
+
+b.
+If an itemset is frequent, then none of its supersets can be frequent, therefore the frequencies of the supersets are not evaluated
+
+
+c.
+If an itemset is not frequent, then none of its subsets can be frequent, therefore the frequencies of the subsets are not evaluated
+
+
+d.
+If an itemset is frequent, then none of its subsets can be frequent, therefore the frequencies of the subsets are not evaluated
+
+
+Question 14
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+What is the difference between classification and regression?
+
+Question 14Answer
+
+a.
+Classification has a categorical target, while regression has a numeric target
+
+
+b.
+Classification is a supervised activity, while regression in unsupervised
+
+
+c.
+Classification can make errors, while regression is always exact
+
+
+d.
+Classification can have a numeric or categorical target, while regression has always a categorical target
+
+
+Question 15
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+Which is different from the others?
+
+Question 15Select one:
+
+a.
+Silhouette Index
+
+b.
+Gini Index
+
+
+c.
+Misclassification Error
+
+
+d.
+Entropy
+
+Question 16
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+In which part of the CRISP methodology we perform the test design activity?
+
+Question 16Answer
+
+a.
+Modeling
+
+
+b.
+Evaluation
+
+
+c.
+Business Understanding
+
+
+d.
+Data Understanding
+
+
+Question 17
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+Select the sentences describing a characteristic of a Data Warehouse
+
+Question 17Select one or more:
+
+a.
+Non volatile
+
+
+b.
+Constantly updated as soon as the base data are updated
+
+
+c.
+Includes all the base data in their native format
+
+
+d.
+Includes the time dimension
+
+
+e.
+Solves the inconsistencies
+
+Question 18
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+Talking about ETL, which of the following activities is related to the Transformation step? 
+
+Question 18Select one or more:
+
+a.
+Snapshot of the operational data
+
+
+b.
+Denormalisation
+
+
+c.
+Calculation of derived data
+
+
+d.
+Usage of dictionaries to solve inconsistencies
+
+Question 19
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+Which of the definition below describes the OLAP operation Roll-Up?
+
+Question 19Select one:
+
+a.
+Creates a link between concepts in interrelated cubes, to  compare them
+
+
+b.
+Causes an increase in data aggregation and removes a detail level in a hierarchy
+
+
+c.
+Reduces data aggregation and adds a detail level to a hierarchy
+
+
+d.
+Reduces	the	number	of cube  dimensions  after setting  one  of the dimensions to a specific value
+
+
+e.
+Changes the layout, in order to analyse a group of data from a different viewpoint
+
+
+Question 20
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+Talking about the general idea of database, what is the meaning of "Schema on read"?
+Question 20Select one:
+
+a.
+Write the raw data in the database, then at reading time shape then according to the reader's needs
+
+b.
+Create a schema for data after reading them from the database
+
+c.
+Change the schema of the data before each read
+
+d.
+Read the schema of the data before each data read
+
+Question 21
+Not yet answered
+Marked out of 0.50
+Flag question
+Question text
+Check the main objectives pursued when choosing a Data Lake architecture
+
+Question 21Answer
+
+a.
+Store the data directly from the sources, as they are; the most appropriate structure will be decided later, according to the user needs
+
+
+b.
+The data must be accurately structured, in order to provide fast answers to complex queries
+
+c.
+The storage must be scalable and cheap, at the expenses of latency
+
+
+d.
+Ensure high quality of data through an accurate cleaning and transformation step
+
+Jump to...
+Jump to...
+Contatti per Docenti: Assistenza Cesia assistenza.cesia@unibo.it tel. 0512080300
+Contatti per Studenti: Help Desk Studenti help.studentionline@unibo.it tel. 0512080301
+
+© Copyright 2024 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - Partita IVA: 01131710376 - CF: 80007010376
+
+Privacy Policy e note legali
+Cookie
